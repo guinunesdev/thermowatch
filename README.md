@@ -28,7 +28,7 @@ Projeto desenvolvido a fins de estudos (Com base no avanço do meu conhecimento 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/thermowatch.git
+   git clone https://github.com/guinunesdev/thermowatch.git
    ```
 
 2. **Abra o projeto em um editor Kotlin/IntelliJ IDEA**.
